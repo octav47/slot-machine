@@ -1,0 +1,5 @@
+export App from './App'
+export Grid from './Grid'
+export Buttons from './Buttons'
+export GameInfo from './GameInfo'
+export Wheel from './Wheel'
